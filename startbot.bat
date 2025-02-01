@@ -1,0 +1,1 @@
+java -jar target\DeepSeekChatvot-1.0-SNAPSHOT.jar
